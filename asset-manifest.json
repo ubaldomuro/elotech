@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elotech/static/css/main.38be36b0.css",
+    "main.js": "/elotech/static/js/main.a83d6ddc.js",
+    "static/js/787.a8b08311.chunk.js": "/elotech/static/js/787.a8b08311.chunk.js",
+    "index.html": "/elotech/index.html",
+    "main.38be36b0.css.map": "/elotech/static/css/main.38be36b0.css.map",
+    "main.a83d6ddc.js.map": "/elotech/static/js/main.a83d6ddc.js.map",
+    "787.a8b08311.chunk.js.map": "/elotech/static/js/787.a8b08311.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38be36b0.css",
+    "static/js/main.a83d6ddc.js"
+  ]
+}
